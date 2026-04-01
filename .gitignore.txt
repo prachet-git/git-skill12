@@ -1,0 +1,10 @@
+# React (frontend)
+student-management/node_modules
+student-management/dist
+
+# Spring Boot (backend)
+FullStackLab12/target
+*.log
+
+# OS files
+.DS_Store
